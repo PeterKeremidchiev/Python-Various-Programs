@@ -21,21 +21,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Tedi/Documents/GitHub/Python-Various-Programs/python_OOP/static_methods_exercise/movie_world"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_OOP/static_methods_exercise" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Kremena PC\Documents\GitHub\Python-Various-Programs\python_OOP\static_methods_exercise" />
       <recent name="C:\Users\Tedi\Documents\GitHub\Python-Various-Programs\python_OOP\static_methods_exercise\movie_world" />
       <recent name="C:\Users\Tedi\Documents\GitHub\Python-Various-Programs\python_OOP" />
       <recent name="C:\Users\Pesho\Documents\GitHub\Python-Various-Programs\python_OOP\static_methods_lab\hotel" />
       <recent name="C:\Users\Pesho\Documents\GitHub\Python-Various-Programs\python_OOP" />
-      <recent name="C:\Users\Peter\Documents\GitHub\Python-Various-Programs\python_OOP\ineheritance_exercise" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tedi\Documents\GitHub\Python-Various-Programs\python_OOP\static_methods_exercise\movie_world" />
